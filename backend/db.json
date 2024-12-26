@@ -1,6 +1,20 @@
 {
   "opinions": [
     {
+      "id": 1735222376550,
+      "votes": 0,
+      "userName": "naren",
+      "title": "react course",
+      "body": "kadupa iruku daa"
+    },
+    {
+      "id": 1735222070093,
+      "votes": 0,
+      "userName": "siva",
+      "title": "CreateContext",
+      "body": "that good feature"
+    },
+    {
       "id": 1,
       "userName": "Maximilian Schwarzmüller",
       "title": "Do yourself a favor and learn React!",
